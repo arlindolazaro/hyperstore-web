@@ -1,0 +1,15 @@
+# dependências
+/node_modules
+
+# build
+/.next/
+/out/
+
+# variáveis de ambiente (nunca subir chaves do Firebase)
+.env
+.env.local
+.env.*.local
+
+# sistema
+.DS_Store
+*.log
